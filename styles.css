@@ -339,8 +339,6 @@ a:hover {
 /* main content
 ------------------------ */
 
-
-
 .logo {
     filter: invert(15%) sepia(9%) saturate(0%) hue-rotate(252deg) brightness(96%) contrast(102%);
     width: 1.5rem;
